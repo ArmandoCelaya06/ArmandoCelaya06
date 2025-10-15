@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Armando Celaya Jr., a junior at DePaul University studying Computer Science with a focus in Software Development. I was born and raised in the greater Chicago area, and my interest in tech started when I was a kid experimenting with an Arduino kit that I found in my attic. That early curiosity eventually turned into a real passion for coding and problem-solving.
+Hi, I’m Armando, a junior at DePaul University studying Computer Science with a focus in Software Development. I was born and raised in the greater Chicago area, and my interest in tech started when I was a kid experimenting with an Arduino kit that I found in my attic. That early curiosity eventually turned into a real passion for coding and problem-solving.
 
 As a first-generation college student, I’m driven by persistence, curiosity, and authenticity. I love learning new technologies and finding creative ways to make systems more efficient and user-friendly. I’ve built everything from Java-based puzzle solvers to full-stack web apps using Spring Boot, React, and AWS, and I enjoy the process of turning ideas into something that actually works.
 
