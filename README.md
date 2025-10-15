@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on SampleGenie<br>🌱 I’m currently learning SQL, AWS, HTML<br>⚡ Fun fact I'm a coffee and music fanatic
 
 
